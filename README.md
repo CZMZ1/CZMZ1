@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CZMZ1
 - 👀 I’m interested in computers and computer hardware
-- 🌱 I’m currently learning to Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on websites and apps
 - 📫 How to reach me ...
 
